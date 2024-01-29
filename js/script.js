@@ -1,1 +1,1 @@
-ls
+console.log("Bonjour les cocos");
