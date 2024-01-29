@@ -1,0 +1,23 @@
+body,html{
+ 
+   margin: 0;
+   height: 100%;
+}
+.book  {
+    display: flex;
+    height: inherit;
+    justify-content: center;
+    align-items: center;
+}
+.book2{
+    display: flex;
+    height: inherit;
+    justify-content: center;
+    align-items: center;
+}
+.book1{
+    display: flex;
+    height: inherit;
+    justify-content: center;
+    align-items: center;
+}
